@@ -1,4 +1,8 @@
 # Simple External Cheat for CS:GO
+----------------------------------
+## - 💻 Developed by Lexa
+## - ⛔ All Rights Reserved.
+----------------------------------
+# Important!
 
-## Developed by Lexa
-   All Rights Reserved.
+Total size: 833 Mega Byte (not released)

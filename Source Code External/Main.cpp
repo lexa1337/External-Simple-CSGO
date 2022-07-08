@@ -14,8 +14,8 @@ HANDLE threadLoop;
 // | $$$$$$$$|  $$$$$$$ /$$/\  $$|  $$$$$$$
 // |________/ \_______/|__/  \__/ \_______/
 //                                         
-//				Developed by Lexa
-//				All Rights Reserved.
+//		Developed by Lexa
+//		All Rights Reserved.
 
 DWORD WINAPI Loop(PVOID pThreadParameter)
 {
